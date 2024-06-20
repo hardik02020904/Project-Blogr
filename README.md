@@ -3,7 +3,7 @@
 
 
 “Blogr” is a web application, which provides user a platform to share his ideas with the whole world in form of text/audio. It is a blogging website with additional features to maximize the learning capabilities of the user. <br />
-**[Live-Link to site.](https://bl0gr.herokuapp.com/)**
+**
 
 
 ## Features
